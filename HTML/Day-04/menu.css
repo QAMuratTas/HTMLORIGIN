@@ -1,0 +1,21 @@
+*{
+    font-family: 'Zen Dots', cursive;
+}
+
+
+.menu{
+    text-align: center;
+    background-color: rgb(201, 201, 201);width: 100px;
+}
+.aktif{
+    background-color: gray;
+    color: white;
+}
+.dekorasyon{
+    text-decoration: line-through;
+}
+.italik{
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-style: italic;
+    font-weight: border; /*fontfamiliy ile alakalı bir durum var burada kalınlığa izin vermiyor. */
+}
