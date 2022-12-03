@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    text-shadow: blueviolet;
+    color: white;
+}
+.yazi{
+    color: cadetblue;
+    font-size: 20px;
+    font-style: italic;
+    
+}
+*{
+    font-family: 'Roboto Mono', monospace;
+}
+a{
+    font-size: 30px;
+    color: aliceblue;
+}
