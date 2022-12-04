@@ -1,0 +1,29 @@
+html{
+    background-color: aqua;
+}
+
+.boxf{
+
+width: 100px;
+height: 100px;
+background-color: gray;
+float: left;
+margin-right: 1rem;
+margin-bottom: 1rem;
+
+}
+.boxc{
+
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    float: right;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    
+    }
+.clear{
+
+clear: both;
+
+}
