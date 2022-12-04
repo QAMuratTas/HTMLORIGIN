@@ -4,15 +4,54 @@ h1{
     color: white;
 }
 .yazi{
-    color: cadetblue;
-    font-size: 20px;
+    color: white;
+    font-size: 35px;
     font-style: italic;
+    font-style: bold;
+    font-family: 'Alfa Slab One', cursive;
+    text-decoration: none;
     
 }
-*{
+h{
     font-family: 'Roboto Mono', monospace;
 }
-a{
-    font-size: 30px;
-    color: aliceblue;
+.dunya
+{
+color: white;
+text-decoration: none;
+
+font-family: 'Roboto Mono', monospace;
+font-family: 'Alfa Slab One', cursive;
 }
+.box
+{
+    width: 100px;
+    text-decoration: none; 
+    float: left;
+}
+.italic{
+    font-style: italic;
+}
+
+a:hover{
+    color: greenyellow;
+}
+h:hover{
+    color: red;
+}
+div:hover{
+    color: aqua;
+}
+a:visited{
+    color: coral;
+}
+.yazi1
+{
+    color:chartreuse;
+    font-size: 30px;
+      
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+    
+}
+
