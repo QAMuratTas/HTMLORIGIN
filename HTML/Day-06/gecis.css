@@ -1,7 +1,14 @@
+.root
+{
+    --murat:#a0e0bd;
+}
+/* yukarıdaki kod çalışmadı kontrol et */
+
+
 .transform {
     width: 100px;
     height: 50px;
-    background-color: red;
+    background-color:red;
     color: white;
     text-align: center;
     margin: 50px;
